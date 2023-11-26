@@ -24,7 +24,7 @@
                   <property name="height" value="838" />
                 </properties>
               </option>
-              <option name="html5_logo_url" value="mobile/5ynjJyvyQep.jpg" />
+              <option name="html5_logo_url" value="mobile/63q04MSBUFC.jpg" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1226,6 +1226,7 @@
             <slidelink slideid="_player.5ikpe4SFfs8.6O5CxZkryPW" displaytext="Trẻ đọc thơ" expand="false" type="slide" />
             <slidelink slideid="_player.5ikpe4SFfs8.6ZkDLOT42I5" displaytext="Bài thơ" expand="false" type="slide" />
             <slidelink slideid="_player.5ikpe4SFfs8.6RYXc1oM3Df" displaytext="Kết thúc" expand="false" type="slide" />
+            <slidelink slideid="_player.5ikpe4SFfs8.5jsA3K822be" displaytext="Tài liệu" expand="false" type="slide" />
             <slidelink slideid="_player.5ikpe4SFfs8.6opRFAt2NsT" displaytext="Theo các con xe chữa cháy         có hữu ích không? " expand="false" type="slide" />
             <slidelink slideid="_player.5ikpe4SFfs8.5hju0ondbBF" displaytext="Xe chữa cháy dùng để làm gì ?" expand="false" type="slide" />
             <slidelink slideid="_player.5ikpe4SFfs8.6R5xIVQcTRZ" displaytext="Bụng xe chữa cháy có chứa gì ?" expand="false" type="slide" />
@@ -1259,9 +1260,16 @@
       <slidetext slideid="5ikpe4SFfs8.6O5CxZkryPW" slidebank="false" type="slide"> dạy  trẻ  đọc thơ </slidetext>
       <slidetext slideid="5ikpe4SFfs8.6ZkDLOT42I5" slidebank="false" type="slide">= xe chữa cháy mình đỏ như lửa bụng chứa nước đầy tôi chạy như bay hét vang đường phố nhà nào bốc lửa tôi dập liền tay ai gọi chữa cháy? “có… ngay! có … ngay! </slidetext>
       <slidetext slideid="5ikpe4SFfs8.6RYXc1oM3Df" slidebank="false" type="slide">bài học đến đây là kết thúc!</slidetext>
+      <slidetext slideid="5ikpe4SFfs8.5jsA3K822be" slidebank="false" type="slide">tài liệu tham khảo phần mềm sử dụng  1. articulate storyline 3 2. wondershare filmora x 3. microsoft powerpoint 2019 tài liệu tham khảo  1. https://vnedu.vn/ 2. https://www.youtube.com/ 3. https://baigiang.violet.vn/</slidetext>
     </search>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Roboto' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Roboto' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;T&amp;#224;i li&amp;#7879;u tham kh&amp;#7843;o&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="https://baigiang.violet.vn/" image="story_content/url.png" title="T&amp;#224;i liệu 1" />
+      <resource url="https://vnedu.vn/" image="story_content/url.png" title="T&amp;#224;i liệu 2" />
+      <resource url="https://www.youtube.com/" image="story_content/url.png" title="T&amp;#224;i liệu 3" />
+    </resources>
+  </resource_data>
   <transcript_data />
   <glossary_data />
 </bwFrame>
